@@ -89,7 +89,7 @@ import (
  *  | | MARKER BIT '1'                                |    1
  *  | | DTS 14-0                                      |   15
  *  | | MARKER_BIT '1'                                |    1
- *  | +--- OPTIONAL FIELDS (IF PTS_DTS_FLAG = 10)     |
+ *  | +--- OPTIONAL FIELDS (IF PTS_DTS_FLAG = 11)     |
  *  |                                                 |
  *  | OPTIONAL FIELDS (PRESENCE IS SET BY FLAG ABOVE) |  VAR
  *  | STUFFING BYTES (0xFF)                           |  VAR
